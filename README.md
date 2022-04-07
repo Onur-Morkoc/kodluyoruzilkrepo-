@@ -29,3 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Patika.dev
+
+Profil Linki: [onurmorkoc](https://app.patika.dev/onurmorkoc)
