@@ -1,0 +1,141 @@
+h1{
+    font-size: 45px;
+    color: rgb(114, 5, 5);
+}
+.center{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(240, 238, 217);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: brown;
+}
+.licenter{
+    list-style-position: inside;
+    display: table; 
+    text-align: left;
+    margin: 0 auto;
+}
+
+a{
+
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+  }
+
+a:visited {
+    color: green;
+    text-decoration: none;
+  }
+
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+  }
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+  }
+.urunler-list {
+    width: 60px;
+    margin: 0 auto;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+
+.urunler {
+    padding-top: 11px;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: block;
+}
+.tac {
+    text-align: center;
+}
+
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.urunlers li {
+    text-align: center;
+    margin: 75px auto;
+}
+
+li {
+    text-align:center;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+article {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 7px;
+    padding: 15px;
+    margin: 10px auto;
+}
+
+article {
+    display: block;
+}
+
+.txt-title {
+    margin: 15px auto;
+    color: rgb(21, 118, 151);
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
