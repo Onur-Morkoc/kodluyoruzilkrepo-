@@ -17,9 +17,9 @@ n = 6,  O(6^2)
 
 ## 3. Soru 
 
-Worst case: O(6^2)
-Best case : n = 6
-Average case: log6
+* Worst case: O(6^2)
+* Best case : n = 6
+* Average case: log6
 
 ## 4. Soru
 
