@@ -33,3 +33,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 #### Patika.dev
 
 Profil Linki: [onurmorkoc](https://app.patika.dev/onurmorkoc)
+Köşeli parantez içine ekranda gözükecek kelimeyi yazıyorsun. Sonra normal parantezlerin içine link yazıyorsun.
+
+[Deneme](https://github.com)
+
+[KELIME](URL)
+
